@@ -90,10 +90,10 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Jair Andrade
   picture:
-  email: 
-  twitter:
+  email: jair.andrade@universityofgalway.ie
+  twitter: jandraor
   links:
     - title:
       url:
