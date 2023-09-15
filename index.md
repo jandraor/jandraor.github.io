@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# About
-
 I'm currently a PhD candidate at the University of Galway. I completed the European Master's program in System Dynamics and obtained a degree in Systems Engineering from Universidad Industrial de Santander. Professionally, I worked in the Colombian public sector for more than two years, and I have been a research assistant at the University of Galway for five years. During the COVID-19 pandemic, I supported the World Health Organisation (GOARN programme) and the Irish Epidemiological Modelling Advisory Group (IEMAG) with quantitative analyses.
 
 I am also the developer of the R package [readsdr](https://github.com/jandraor/readsdr).
