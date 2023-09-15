@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/light.css"
 locale: en-US
-title: "Jair Andrade's homepage"
-description: "It really is the best."
+title: "Jair Andrade"
+# description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -104,6 +104,9 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Twitter
+      url: https://twitter.com/jandraor
+      icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/jandraor
+    icon: fab fa-github-square
